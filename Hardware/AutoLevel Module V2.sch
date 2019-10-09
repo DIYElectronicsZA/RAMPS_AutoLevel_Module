@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.3.0">
+<eagle version="9.3.2">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -2293,7 +2293,6 @@ Number of pins: &lt;b&gt;3&lt;/b&gt;&lt;b&gt;&lt;P&gt;
 <part name="P+5" library="supply1" deviceset="+12V" device=""/>
 <part name="GND6" library="supply1" deviceset="GND" device=""/>
 <part name="JP5" library="pinhead" deviceset="PINHD-1X1" device=""/>
-<part name="U$1" library="RobThePyro" deviceset="SHROOM" device="5MM"/>
 <part name="U$2" library="RobThePyro" deviceset="SHROOM" device="BOTTOMSILK"/>
 <part name="FRAME1" library="frames" deviceset="FRAME_A_L" device=""/>
 <part name="R1" library="OPL_Resistor" library_urn="urn:adsk.eagle:library:8004883" deviceset="SMD-RES-15K-5%-1/8W(0805)" device="" package3d_urn="urn:adsk.eagle:package:8004935/1" value="15K"/>
@@ -2362,7 +2361,6 @@ Number of pins: &lt;b&gt;3&lt;/b&gt;&lt;b&gt;&lt;P&gt;
 <attribute name="NAME" x="158.115" y="85.09" size="1.778" layer="95" rot="R270"/>
 <attribute name="VALUE" x="149.86" y="85.09" size="1.778" layer="96" rot="R270"/>
 </instance>
-<instance part="U$1" gate="G$1" x="177.8" y="35.56" smashed="yes"/>
 <instance part="U$2" gate="G$1" x="167.64" y="35.56" smashed="yes"/>
 <instance part="FRAME1" gate="G$1" x="5.08" y="-33.02" smashed="yes"/>
 <instance part="FRAME1" gate="G$2" x="177.8" y="-33.02" smashed="yes">
